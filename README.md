@@ -48,8 +48,8 @@ JavaScript (ES6+)
 
 ### Vista general del e-commerce
 
-![Vista general](./screenshots/ss1.png)
+![Tienda gamer mostrada en un navegador en localhost:5174, con tarjetas de auriculares, teclados y mouse que incluyen fotografías, categorías, nombres, precios y botones Agregar al carrito; arriba se ve un campo Buscar productos... y un pie de página con el texto © 2026 Tienda Gamer - Todos los derechos reservados y Hecho con React para la tarea de Módulo 2 Fullstacks IPSS. La interfaz es clara y ordenada](./screenshots/ss1.png)
 
 ### Listado de productos
 
-![Listado de productos](./screenshots/ss2.png)
+![Listado de productos gamer en tarjetas, con fotografías de periféricos, categorías, nombres, precios y botones Agregar al carrito, dentro de una interfaz clara, funcional y organizada](./screenshots/ss2.png)
