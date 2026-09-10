@@ -1,10 +1,10 @@
-function Footer() {
+function Header() {
   return (
-    <footer className="footer">
-      <p>© 2026 Tienda Gamer - Todos los derechos reservados</p>
-      <p>Hecho con React para la tarea de Módulo 2 Fullstacks IPSS</p>
-    </footer>
+    <header className="header">
+      <h1>🎮 Tienda Gamer</h1>
+      <p>Los mejores productos para gamers</p>
+    </header>
   );
 }
 
-export default Footer;
+export default Header;
